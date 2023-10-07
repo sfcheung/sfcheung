@@ -22,7 +22,7 @@ I am Shu Fai. I like helping people, me included, to do analysis in psychologica
 
 #### SPSS
 
-[`DIY Bootstrapping in SPSS`](https://github.com/sfcheung/diybootstat): For forming nonparametric bootstrap confidence intervals for literally anything we can see in the SPSS output ([Cheung, Pesigan, & Vong, 2023](https://doi.org/10.3758/s13428-022-01808-5)). Flexibility comes at a cost ... some coding in inevitable. But I meant it: Anything we can see, including standardized regression coefficients ("betas") and adjusted R-squares, reliability coefficients, and many other statistics. Video demonstration can be found [here](https://youtube.com/playlist?list=PLIPS5VeTqgUoSlg2b-EIiCKU7vxwWEYY0&feature=shared).
+[`DIY Bootstrapping in SPSS`](https://github.com/sfcheung/diybootstat): For forming nonparametric bootstrap confidence intervals for literally anything we can see in the SPSS output ([Cheung, Pesigan, & Vong, 2023](https://doi.org/10.3758/s13428-022-01808-5)). Flexibility comes at a cost ... some coding is inevitable. But I meant it: Anything we can see, including standardized regression coefficients ("betas") and adjusted R-squares, reliability coefficients, and many other statistics. Video demonstration can be found [here](https://youtube.com/playlist?list=PLIPS5VeTqgUoSlg2b-EIiCKU7vxwWEYY0&feature=shared).
 
 Hope you find the tools useful. (I certainly do find the tools useful because I usually develop tools that I myself also want to use in my research. 😊)
 
