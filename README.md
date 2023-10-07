@@ -4,7 +4,7 @@ I am Shu Fai. I like helping people, me included, to do analysis in psychologica
 
 #### Structural Equation Modelling (SEM)
 
-<img src="figures/manymome_logo.png" align="bottom" height="75" />[`manymome`](https://sfcheung.github.io/manymome/): Moderation (`mo`), mediation (`me`), and moderated mediation (`mome`) in "`many`" models. In colaboration with S.-H. Cheung ([Cheung & Cheung, 2023](https://doi.org/10.3758/s13428-023-02224-z)). Our goals: Do things fast and do them right. This package is for computing indirect effects and conditional indirect effects fast and easy, with as little coding as possible. ([A quick introduction](https://sfcheung.github.io/manymome/articles/manymome.html))
+<img src="figures/manymome_logo.png" align="bottom" height="75" />[`manymome`](https://sfcheung.github.io/manymome/): Moderation (`mo`), mediation (`me`), and moderated mediation (`mome`) in "`many`" models. In colaboration with S.-H. Cheung ([Cheung & Cheung, 2023](https://doi.org/10.3758/s13428-023-02224-z)). Our goals: Do things fast and do them right. This package is for computing indirect effects and conditional indirect effects fast and easily, with as little coding as possible. ([A quick introduction](https://sfcheung.github.io/manymome/articles/manymome.html))
 
 <img src="figures/semlbci_logo.png" align="bottom" height="75" />[`semlbci`](https://sfcheung.github.io/semlbci/): Likelihood-based confidence interval (`lbci`) in `sem`. LBCI is a useful but underused method to form CI in SEM. I hope more researchers can use this method ([Cheung & Pesigan, 2023](https://doi.org/10.1080/10705511.2023.2183860)). ([Get started](https://sfcheung.github.io/semlbci/articles/semlbci.html))
 
